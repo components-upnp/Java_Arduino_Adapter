@@ -1,4 +1,4 @@
-package main.java.com.irit.upnp;
+package com.irit.upnp;
 
 import org.fourthline.cling.binding.annotations.*;
 

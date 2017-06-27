@@ -1,4 +1,4 @@
-package main.java.com.irit.xml;
+package com.irit.xml;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;

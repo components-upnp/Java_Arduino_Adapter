@@ -1,6 +1,6 @@
-package main.java.com.irit.main;
+package com.irit.main;
 
-import main.java.com.irit.upnp.ArduinoAdapterServer;
+import com.irit.upnp.ArduinoAdapterServer;
 
 /**
  * Hello world!

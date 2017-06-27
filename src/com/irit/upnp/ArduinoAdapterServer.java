@@ -1,6 +1,6 @@
-package main.java.com.irit.upnp;
+package com.irit.upnp;
 
-import main.java.com.irit.xml.GenerateurXml;
+import com.irit.xml.GenerateurXml;
 import org.fourthline.cling.UpnpService;
 import org.fourthline.cling.UpnpServiceImpl;
 import org.fourthline.cling.binding.LocalServiceBindingException;
@@ -14,8 +14,6 @@ import org.fourthline.cling.model.types.UDN;
 
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.transform.TransformerException;
-import java.beans.PropertyChangeEvent;
-import java.beans.PropertyChangeListener;
 import java.io.IOException;
 
 /**
