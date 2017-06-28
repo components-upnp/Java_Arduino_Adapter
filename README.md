@@ -28,7 +28,7 @@ Ce composant présente deux services dont voici les descriptions :
     
 Voici le schéma représentant ce composant ainsi que ses services :
 
-[!alt tag](https://github.com/components-upnp/Java_Arduino_Adapter/blob/master/Arduino_Adapter.png)
+![alt tag](https://github.com/components-upnp/Java_Arduino_Adapter/blob/master/Arduino_Adapter.png)
 
 <strong>Maintenance : </strong>
 
