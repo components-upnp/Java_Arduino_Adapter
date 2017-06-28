@@ -19,10 +19,12 @@ Pour lancer l'application, exécuter lanceur.bat ou lanceur.sh respectivement si
 Ce composant présente deux services dont voici les descriptions :
 
   a) AdaptedCommandService :
+  
     1) SetAdaptedCommand(String AdaptedCommand) : reçoit la commande Arduino adaptée et la transmet via UPnP dans un événement 
     AdaptedCommand_Event.
     
   b) ArduinoCommandService :
+  
     1) SetArduinoCommand(String ArduinoCommand) : prend en entrée une commande Arduino à adapter et la transmet à l'application.
     
     
